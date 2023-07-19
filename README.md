@@ -5,13 +5,17 @@
 <td valign="top" width="50%">
 <div align="center">
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300" height="1" />
-    <a href="https://apps.apple.com/ru/app/pirates-puzzles-pvp-league/id1483755748">
+    <h3>Commercial Projects:</h3>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <a href="https://apps.apple.com/ru/app/pirates-puzzles-pvp-league/id1483755748">
         <p>Pirates and Puzzles</p>
         <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/12/97/86/12978633-af3b-ebde-cf8f-6c611ded5316/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width="100" style="border-radius: 10%"></a>
-    <a href="https://play.google.com/store/apps/details?id=com.taptics.marmokIdle&hl=ru&gl=US">
-        <p>Marmok Team</p>
-        <img src="https://play-lh.googleusercontent.com/yy9GRAPm-wqvCBEjkyKEf_Aajud3AUSdOawiyg5N_JgFFA_eUDRAH4Ni6gsfGFJqNEk=w240-h480-rw" width="100" style="border-radius: 10%"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.taptics.marmokIdle&hl=ru&gl=US">
+            <p>Marmok Team</p>
+            <img src="https://play-lh.googleusercontent.com/yy9GRAPm-wqvCBEjkyKEf_Aajud3AUSdOawiyg5N_JgFFA_eUDRAH4Ni6gsfGFJqNEk=w240-h480-rw" width="100" style="border-radius: 10%"></a>
+    </div>
     <br />
+    <h3>PET Projects:</h3>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <a href="https://github.com/Korjick/PET-Magic-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Magic-Unity"></a>
         <a href="https://github.com/Korjick/PET-Battle-Dice-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Battle-Dice-Unity"></a>
@@ -33,6 +37,8 @@
         <a href="https://t.me/korjick" target="_blank">
             <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
+        <img src="https://github.com/Korjick/Korjick/blob/main/CV1.jpg?raw=true">
+        <img src="https://github.com/Korjick/Korjick/blob/main/CV2.jpg?raw=true">
     </div>
 </td>
 </tr>
