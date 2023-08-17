@@ -37,8 +37,9 @@
         <a href="https://t.me/korjick" target="_blank">
             <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
-        <img src="https://github.com/Korjick/Korjick/blob/main/CV1.jpg?raw=true">
-        <img src="https://github.com/Korjick/Korjick/blob/main/CV2.jpg?raw=true">
+        <a href="http://ec2-18-193-135-106.eu-central-1.compute.amazonaws.com/" target="_blank">
+            <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white />
+        </a>
     </div>
 </td>
 </tr>
