@@ -31,15 +31,15 @@
         <p style="font-size: medium">5+ year coding experience 🚀</p>
         <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>
         <h3>Contact me</h3>
-        <a href="https://github.com/korjick" target="_blank">
-            <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+        <a href="https://www.instagram.com/bulat_din/" target="_blank">
+            <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white />
         </a>
         <a href="https://t.me/korjick" target="_blank">
             <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
-        <a href="http://ec2-18-193-135-106.eu-central-1.compute.amazonaws.com/" target="_blank">
-            <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white />
-        </a>
+        <hr/>
+        <p style="font-size: large">✉️ You can shoot me an email at <a href="mailto:zzgriim@gmail.com" target="_blank">zzgriim@gmail.com</a>! I'll try to respond as soon as I can</p>
+        <p style="font-size: large">📄 Please have a look at my <a href="http://ec2-18-193-135-106.eu-central-1.compute.amazonaws.com" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
     </div>
 </td>
 </tr>
