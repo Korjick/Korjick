@@ -17,7 +17,7 @@
     <br />
     <h3>PET Projects:</h3>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <a href="https://github.com/Korjick/PET-Pong-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-LabyTanks"></a>
+        <a href="https://github.com/Korjick/PET-LabyTanks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-LabyTanks"></a>
         <a href="https://github.com/Korjick/PET-Magic-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Magic-Unity"></a>
         <a href="https://github.com/Korjick/PET-Battle-Dice-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Battle-Dice-Unity"></a>
         <a href="https://github.com/Korjick/PET-SkySpy-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-SkySpy-Unity"></a>
