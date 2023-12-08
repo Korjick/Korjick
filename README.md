@@ -17,10 +17,10 @@
     <br />
     <h3>PET Projects:</h3>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <a href="https://github.com/Korjick/PET-Pong-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-LabyTanks"></a>
         <a href="https://github.com/Korjick/PET-Magic-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Magic-Unity"></a>
         <a href="https://github.com/Korjick/PET-Battle-Dice-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Battle-Dice-Unity"></a>
         <a href="https://github.com/Korjick/PET-SkySpy-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-SkySpy-Unity"></a>
-        <a href="https://github.com/Korjick/PET-Pong-Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-Pong-Unity"></a>
     </div>
 </div>
 </td>
@@ -39,7 +39,7 @@
         </a>
         <hr/>
         <p style="font-size: large">✉️ You can shoot me an email at <a href="mailto:zzgriim@gmail.com" target="_blank">zzgriim@gmail.com</a>! I'll try to respond as soon as I can</p>
-        <p style="font-size: large">📄 Please have a look at my <a href="http://45.152.115.240" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
+        <p style="font-size: large">📄 Please have a look at my <a href="http://din.bounceme.net/" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
     </div>
 </td>
 </tr>
