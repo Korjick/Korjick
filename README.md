@@ -37,7 +37,7 @@
         </a>
         <hr/>
         <p style="font-size: large">✉️ You can shoot me an email at <a href="mailto:zzgriim@gmail.com" target="_blank">zzgriim@gmail.com</a>! I'll try to respond as soon as I can</p>
-        <p style="font-size: large">📄 Please have a look at my <a href="http://din.bounceme.net/" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
+        <p style="font-size: large">📄 Please have a look at my <a href="https://din.loginto.me/" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
     </div>
 </td>
 </tr>
