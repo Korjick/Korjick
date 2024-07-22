@@ -30,10 +30,13 @@
         <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>
         <h3>Contact me</h3>
         <a href="https://www.instagram.com/bulat_din/" target="_blank">
-            <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white />
+            <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
         </a>
         <a href="https://t.me/korjick" target="_blank">
-            <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+            <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+        </a>
+        <a href="https://korjick.artstation.com" target="_blank">
+            <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white"/>
         </a>
         <hr/>
         <p style="font-size: large">✉️ You can shoot me an email at <a href="mailto:zzgriim@gmail.com" target="_blank">zzgriim@gmail.com</a>! I'll try to respond as soon as I can</p>
