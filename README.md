@@ -21,6 +21,7 @@
     <h3>PET Projects:</h3>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <a href="https://github.com/Korjick/PET-LabyTanks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-LabyTanks"></a>
+        <a href="https://github.com/Korjick/PET-CrateInvaders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korjick&repo=PET-CrateInvaders"></a>
     </div>
 </div>
 </td>
