@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fakhrutdinov Bulat&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 66, Total PRs: 18, Total Issues: 2, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 66, Total PRs: 16, Total Issues: 2, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.55724331358286;
+        stroke-dashoffset: 209.93359377455937;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >18</text>
+      >16</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
