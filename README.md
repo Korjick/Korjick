@@ -10,22 +10,28 @@
     <br />
     <h3>PET Projects:</h3>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <a href="https://github.com/topics/korjick-unity-tech-showcase">
+        <a href="https://github.com/topics/korjick-unity-pet-projects">
           <img
-            src="https://img.shields.io/badge/Unity_Tech_Showcase-View_all_projects-181717?style=for-the-badge&logo=unity&logoColor=white"
-            alt="Unity Tech Showcase"
+            src="https://img.shields.io/badge/Unity_Showcase-View_all_projects-181717?style=for-the-badge&logo=unity&logoColor=white"
+            alt="Unity Showcase"
           />
         </a>
-        <a href="https://github.com/topics/korjick-python-microservices">
+        <a href="https://github.com/topics/korjick-python-pet-projects">
           <img
-            src="https://img.shields.io/badge/Python_Microservices-View_all_projects-181717?style=for-the-badge&logo=python&logoColor=white"
-            alt="Unity Tech Showcase"
+            src="https://img.shields.io/badge/Python_Showcase-View_all_projects-181717?style=for-the-badge&logo=python&logoColor=white"
+            alt="Python Showcase"
           />
         </a>
-        <a href="https://github.com/topics/korjick-java-microservices">
+        <a href="https://github.com/topics/korjick-java-pet-projects">
           <img
-            src="https://img.shields.io/badge/Java_Microservices-View_all_projects-181717?style=for-the-badge&logo=spring&logoColor=white"
-            alt="Unity Tech Showcase"
+            src="https://img.shields.io/badge/Java_Showcase-View_all_projects-181717?style=for-the-badge&logo=spring&logoColor=white"
+            alt="Java Showcase"
+          />
+        </a>
+        <a href="https://github.com/topics/korjick-go-pet-projects">
+          <img
+            src="https://img.shields.io/badge/Go_Showcase-View_all_projects-181717?style=for-the-badge&logo=go&logoColor=white"
+            alt="Go Showcase"
           />
         </a>
     </div>
